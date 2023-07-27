@@ -1,4 +1,4 @@
-# recipes
+# Recipes
 
 This repository contains no code.
 
